@@ -1,4 +1,4 @@
--- Pruebas para actividad_colaborativa
+
 
 -- Ver todos los motores de BD
 SELECT * FROM motor_bd;
