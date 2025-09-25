@@ -1,4 +1,4 @@
--- Usar la base: actividad_colaborativa
+
 
 -- Tabla Motor de BD
 CREATE TABLE motor_bd (
